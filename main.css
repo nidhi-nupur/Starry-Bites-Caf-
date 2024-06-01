@@ -1,0 +1,26 @@
+html
+{
+    font-size: 18px;
+}
+body
+{
+    background-color: #80DED9;
+    color: black;
+}
+a
+{
+    color: #54426B;
+}
+a:visited {
+    color: #3066BE;
+}
+a:hover, a:active {
+    color: black;
+}
+
+table, tr, th, td, caption {
+    border: 1px solid #2b1640;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
